@@ -1,0 +1,11 @@
+package com.the.app
+
+enum class TransactionsState {
+    NO_NETWORK,
+    LOADING_SUCCEED,
+    LOADING_ERROR,
+    REMOVING_SUCCEED,
+    REMOVING_FAILED,
+    DOWNLOADING_FAILED,
+    DOWNLOADING_SUCCEED
+}

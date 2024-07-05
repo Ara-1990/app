@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="app_text_1">All</string>
+    <string name="app_text_3">Service</string>
+    <string name="remove">Remove</string>
+    <string name="error_loading">Error occurred during loading</string>
+    <string name="error_removing">Removing failed!</string>
+    <string name="albums">Albums</string>
+    <string name="album">Album</string>
+    <string name="albumInfo">Album information</string>
+    <string name="loading">Loading…</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="save">Save</string>
+    <string name="removing">Removing</string>
+    <string name="successRemoved">Album Successfully removed!</string>
+    <string name="noSavedAlbums">No saved albums!</string>
+    <string name="noAlbums">No albums!</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading…</string>
+    <string name="downloadingFailed">Downloading failed!</string>
+    <string name="zoom">zoom</string>
+    <string name="noNetwork">No network connection!</string>
+    <string name="app_text_2">Myfavourites</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="region">Region</string>
+    <string name="country">Country</string>
+    <string name="lat_long">Latitude and Longitude</string>
+    <string name="location_and_audio_player_service">Location and audio player service</string>
+    <string name="startToGetLocation">Click on Start button \nto get your current location!</string>
+</resources>
